@@ -2,7 +2,9 @@
 
 Um simples aplicativo Flutter para rolar dados virtualmente, ideal para jogos de mesa e RPG.
 
-![Demonstração]![App-de-Rodar-Dados](https://github.com/user-attachments/assets/d7229e65-a043-4045-81c3-82640696a020)
+![Demonstração]!
+
+[App-de-Rodar-Dados](https://github.com/user-attachments/assets/d7229e65-a043-4045-81c3-82640696a020)
 
 
 ## 🚀 Tecnologias Utilizadas
