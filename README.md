@@ -1,17 +1,25 @@
-# first_blood
+# 🎲 Jogar Dados
 
-A new Flutter project.
+Um simples aplicativo Flutter para rolar dados virtualmente, ideal para jogos de mesa e RPG.
 
-## Getting Started
+![Demonstração]![App-de-Rodar-Dados](https://github.com/user-attachments/assets/d7229e65-a043-4045-81c3-82640696a020)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter (Dart)** para interface e lógica de funcionamento.
+- **Material Design** para um layout intuitivo e agradável.
+- **Gerenciamento de estado simples** para atualização da interface ao rolar os dados.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Jogar-Dados
+✅ Simula o lançamento de dados com diferentes faces.
+✅ Atualiza os valores aleatoriamente ao pressionar um botão.
+✅ Interface amigável com animações simples.
+
+🎯 Próximos Passos
+- Melhorar as animações do dado.
+- Adicionar suporte para múltiplos dados (ex: D4, D8, D20).
+- Criar uma versão para web com PWA.
+
+ Clone o repositório:
+ 
+   git clone https://github.com/dyegolv/Jogar-Dados.git
